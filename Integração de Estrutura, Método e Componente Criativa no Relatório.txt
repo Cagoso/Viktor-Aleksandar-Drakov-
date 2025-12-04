@@ -1,0 +1,30 @@
+Ao longo deste trabalho procurei organizar a informação de forma clara e coerente, apresentando cada etapa do processo de análise com base em fontes fiáveis e em métodos que permitissem explicar o tema de forma simples. Para facilitar a leitura, incluí também uma pequena tabela de apoio que resume a estrutura geral do relatório e ajuda a perceber como as várias partes se relacionam entre si:
+
+| Secção          | Nota |
+| --------------- | ---- |
+| Base teórica    | ✔    |
+| Uso de métodos  | ✔    |
+| Linguagens      | ✔    |
+| Gestão de dados | ✔    |
+| Avaliação       | ✔    |
+| Referências     | ✔    |
+| Implementação   | ✔    |
+| Anexo           | ✔    |
+
+Depois desta síntese, segue um pequeno texto ilustrativo que utilizei apenas como exemplo de composição literária dentro do tema. Serve como complemento criativo e demonstra também a capacidade de integrar elementos mais narrativos quando necessário:
+
+Uma noite fria
+Inesperada visita
+Oficial búlgaro
+Usa disfarce
+Rápido e silencioso
+Bate à porta
+Infiltrado sorrateiro
+Surpreende todos
+Búlgaro implacável
+Vinga-se
+Zangado e brutal
+Bate forte
+
+Este excerto funciona como uma breve componente estilística que ajuda a tornar o relatório mais envolvente, mantendo o foco no conteúdo principal mas permitindo também alguma variedade textual.
+
