@@ -1,0 +1,23 @@
+{
+  "World": {
+    "Yggdrasil.wld": true,
+    "Espantoso_Leixão.wld": false,
+    "botas_de_hermes.wld": false,
+    "SEED.wld": false,
+    "cabo_de_vassoura.wld": false,
+    "blizzard_in_a_bottle.wld": false,
+    "Botas_de_gelo.wld": false,
+    "bota_de_agua.wld": false,
+    "lava_charm.wld": false,
+    "Imp_statue.wld": false,
+    "farao.wld": false,
+    "shimmer.wld": false,
+    "jornada.wld": false,
+    "Jornada.wld": false,
+    "Mogno_wand.wld": false,
+    "madeira.wld": false
+  },
+  "Player": {
+    "Nicolas.plr": true
+  }
+}
